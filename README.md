@@ -1,80 +1,133 @@
-Hi there, I'm Kunal Kumar 👋
-Software Quality Analyst
-About Me
-I am a passionate Software Quality Assurance professional with extensive experience in manual and automation testing across various domains, specializing in e-commerce platforms and Product Information Management (PIM) systems. My goal is to ensure the delivery of high-quality software by employing a combination of manual testing methodologies and automated testing frameworks. I combine a keen eye for detail with the power of automation to ensure software applications are exceptional.
+# Hi there, I'm Kunal Kumar 👋
 
-Testing Powerhouse:
-Manual Testing Master: Skilled in exploratory, boundary value analysis, equivalence partitioning, and usability testing methodologies.
-Automation Architect: Adept in designing, developing, and maintaining robust automation frameworks using industry-leading tools like Selenium, Cypress, Appium, and Playwright.
-Programming Proficient: Proficient in Python, Java, JavaScript (and friends!), enabling me to write clean, efficient, and scalable test scripts for both manual and automated testing.
-API Testing Ace: Utilize tools like Rest Assured, Postman, and SoapUI to streamline API testing and performance analysis.
-Version Control Guru: Git master, ensuring seamless collaboration and code management for both manual and automated tests.
-CI/CD Champion: Championing CI/CD pipelines with tools like Jenkins and GitHub Actions, for continuous integration and delivery of both manual and automated tests.
-Beyond the Basics:
-Metrics Matter: I track and report on key metrics to demonstrate the impact of testing efforts, including test coverage increase, bug reduction, and improved release velocity.
-Continuous Learning: I actively stay updated with the latest testing trends and methodologies, constantly expanding my skillset with new tools, frameworks, and best practices.
-Open Source Advocate:
-I actively contribute to open-source testing projects, fostering a collaborative and innovative testing community.
-Skills
-Strong understanding of software testing principles and methodologies
-Proficient in creating test plans, test cases, and test scripts
-Experience in both manual and automated testing techniques
-Familiarity with Agile and Scrum methodologies
-Excellent problem-solving and analytical skills
-Ability to work independently and as part of a team
-Effective communication and collaboration skills
-Technologies
-Programming Languages
-Java
-JavaScript
-Frontend Development
-HTML
-CSS
-JavaScript
-jQuery
-Testing Frameworks
-Selenium WebDriver
-Cypress
-Playwright
-Jest
-JUnit
-TestNG
-Cucumber
-RestAssured API
-Allure Reporting
-Mobile Testing
-Appium
-Version Control
-Git
-GitHub
-API Testing
-Postman
-IDEs
-Visual Studio Code (VSCode)
-Eclipse
-Data Formats
-XML
-JSON
-E-commerce Platforms
-Magento 2
-Shopify
-BigCommerce
-PrestaShop
-WooCommerce
-WordPress
-PIM Systems
-Akeneo
-UnoPim
-Pimcore
-Projects
-Project 1: E-commerce Website Testing
-Conducted end-to-end testing of Magento 2 e-commerce website, including functional, regression, and performance testing
-Automated test scripts using Selenium WebDriver and maintained test suites in TestNG
-Integrated Allure for comprehensive test reporting and analysis
-Project 2: Mobile Application Testing
-Developed automated test scripts using Appium for testing mobile applications across multiple platforms
-Collaborated with development team to implement continuous integration and automated deployment pipelines
-Project 3: PIM System Testing
-Tested product data management functionalities of Akeneo and Pimcore PIM systems
-Utilized RestAssured API for testing RESTful APIs and validating JSON responses
-Generated comprehensive test documentation including test cases and defect reports
+## Software Quality Analyst | QA Automation Engineer
+
+Passionate QA professional with 4.6+ years of experience in Manual and Automation Testing, specializing in web applications, e-commerce platforms, and enterprise solutions. Experienced in designing scalable automation frameworks, improving test coverage, and ensuring high-quality software delivery through robust testing methodologies.
+
+Strong expertise in Selenium, Playwright, API Testing, and modern QA practices with hands-on experience in Agile environments. Dedicated to continuous learning, process improvement, and delivering reliable software solutions.
+
+---
+
+# 🚀 Professional Summary
+
+* Expertise in Functional, Regression, Smoke, Sanity, and Exploratory Testing
+* Strong experience in Automation Framework Development using Selenium and Playwright
+* Hands-on experience with API Testing using Postman and Rest Assured
+* Good understanding of SDLC, STLC, Defect Lifecycle, and Agile Methodologies
+* Experience in Cross-Browser and Cross-Platform Testing
+* Skilled in creating reusable and maintainable automation frameworks
+* Strong analytical, debugging, and problem-solving skills
+* Experience working with CI/CD pipelines and version control systems
+
+---
+
+# 🛠 Technical Skills
+
+## Automation Testing
+
+* Selenium WebDriver
+* Playwright
+* Cypress
+* Appium
+
+## Testing Frameworks
+
+* TestNG
+* JUnit
+* Cucumber BDD
+* Allure Reporting
+
+## API Testing
+
+* Postman
+* Rest Assured
+* API Validation
+* JSON & XML Response Validation
+
+## Programming Languages
+
+* Java
+* JavaScript
+* SQL (Basic)
+
+## Web Technologies
+
+* HTML
+* CSS
+* JavaScript
+
+## Version Control & CI/CD
+
+* Git
+* GitHub
+* Jenkins
+* Maven
+
+## IDEs & Tools
+
+* IntelliJ IDEA
+* Eclipse
+* Visual Studio Code
+
+---
+
+# 📦 Domain Experience
+
+## E-Commerce Platforms
+
+* Magento 2
+* Shopify
+* WooCommerce
+* WordPress
+
+## PIM Systems
+
+* Akeneo
+* UnoPim
+* Pimcore
+
+---
+
+# 📁 Professional Projects
+
+## 🔹 E-Commerce Automation Framework
+
+* Developed and maintained automation framework using Selenium WebDriver and TestNG
+* Automated regression and smoke test suites for Magento-based applications
+* Improved test execution efficiency through reusable utility functions and Page Object Model (POM)
+* Integrated reporting tools for detailed execution analysis
+
+## 🔹 Playwright Automation Project
+
+* Built scalable automation scripts using Playwright with JavaScript
+* Implemented cross-browser testing for Chromium, Firefox, and WebKit
+* Added screenshot and video capturing mechanisms for failed test cases
+* Enhanced execution stability and reduced manual testing efforts
+
+## 🔹 API Automation Testing
+
+* Performed API validation using Postman and Rest Assured
+* Validated request-response structures, status codes, and schema testing
+* Automated API regression suites for faster validation cycles
+
+---
+
+# 📈 Current Focus
+
+* Advanced Playwright Automation
+* Hybrid Framework Development
+* CI/CD Pipeline Integration
+* Real-Time Automation Scenarios
+* MNC Interview Preparation
+
+---
+
+# 🌱 Continuous Learning
+
+Focused on continuously upgrading technical expertise by learning:
+
+* Advanced Automation Design Patterns
+* Framework Optimization Techniques
+* API Automation Strategies
+* Performance Testing Fundamentals
+* Industry Best Practices in QA
